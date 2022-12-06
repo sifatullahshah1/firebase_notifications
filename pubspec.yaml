@@ -34,6 +34,8 @@ dependencies:
 
   cupertino_icons: ^1.0.2
 
+
+#asdf asdf sadf asdf
   firebase_core: ^1.24.0
   firebase_messaging: ^13.1.0
   firebase_analytics: ^9.3.8
